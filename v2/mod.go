@@ -3,5 +3,5 @@ package gomod
 import "fmt"
 
 func Mod_hello() {
-	fmt.Println("Mod Package: Hello")
+	fmt.Println("Mod Package: Hello V2")
 }
